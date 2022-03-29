@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>2i Programmering</title>
+</head>
+<body>
+
+<h1>2i programmering</h1>
+<p>Her ses en oversigt hvilke emner der er blevet undervist i på holdet "2i progemmering".
+Det er selvfølgelig også forventeligt at alle forstår disse emner.</p>
+  
+<ul>
+  <li>Variabler</li>
+  <li>Betingelser</li>
+  <li>Loops</li>
+  <li>Funktioner</li>
+  <li>Klasser</li>
+</ul>  
+  
+<table border="1">
+<thead>
+<tr><th>Uge</th><th> Opgavetitel</th><th> Løsning</th><th> Beskrivelse</th><th> Andet</th></tr>
+</thead>
+<tbody>
+<tr><td>33</td><td> Aflevering1: Projekt Creature Walk 21/22</td><td></td><td></td><td></td></tr>
+<tr><td>36</td><td> Aflevering 2: Bouncing Ball 21/22</td><td></td><td></td><td></td></tr>
+<tr><td>38</td><td> Aflevering 3 : Firkantkunst 21/22</td><td></td><td></td><td></td></tr>
+<tr><td>39</td><td> Aflevering 4 : Tegneprogram 21/22</td><td></td><td></td><td></td></tr>
+<tr><td>41</td><td> Aflevering 5 : Slange 21/22</td><td></td><td></td><td></td></tr>
+<tr><td>43</td><td> Aflevering 6 : Opgaver i funktioner</td><td></td><td></td><td></td></tr>
+<tr><td>48</td><td> Aflevering 7: Terningesim med fuktioner</td><td></td><td></td><td></td></tr>
+<tr><td>51</td><td> Aflevering 8 : Intro opgave i OOP</td><td></td><td></td><td></td></tr>
+<tr><td>7</td><td> Aflevering 9: Firkant zoom og translate</td><td></td><td></td><td></td></tr>
+<tr><td></td><td> Aflevering 10: Forskellige dyr</td><td></td><td></td><td></td></tr>
+<tr><td>8</td><td> Test standpunkt</td><td></td><td></td><td></td></tr>
+<tr><td>11 og 12</td><td> Aflevering 11: Skriv og læs til fil</td><td></td><td></td><td></td></tr>
+<tr><td>13 og 14</td><td> Aflevering 12: ... </td><td></td><td></td><td></td></tr>
+<tr><td>16 og 17</td><td> Aflevering 13: ... </td><td></td><td></td><td></td></tr>
+<tr><td>21</td><td> SRC </td><td></td><td></td><td></td></tr>
+</tbody>
+</table>
+
+<h3>Kattis opgaver, kan løses med oop (men ikke altid bedste løsning):</h3>  
+<ul>
+  <li>https://open.kattis.com/problems/pachydermpeanutpacking</li>
+  <li>https://open.kattis.com/problems/semafori</li>
+  <li>https://open.kattis.com/problems/airconditioned</li>
+</ul>    
+  
+  
+</body>
+</html>
