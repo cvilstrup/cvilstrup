@@ -22,24 +22,26 @@ Det er selvfølgelig også forventeligt at alle forstår disse emner.</p>
 <tr><th>Emne</th><th> Beskrivelse</th><th> Andet</th></tr>
 </thead>
 <tbody>
-<tr><td>Setup</td><td> Setup bruges til at opstille informationer der kun skal gives 1 gang</td><td></td><td></td><td></td></tr>
-<tr><td>Draw</td><td> Draw bruges til at loope funktioner om og om igen</td><td></td><td></td><td></td></tr>
-<tr><td>mousePressed</td><td> en kommando man bruger til at fortælle programmet at der skal se noget når man trykker på musseknappen</td><td></td><td></td><td></td></tr>
-<tr><td>keyPressed</td><td> en kommando man bruger til at fortælle programmet at der skal se noget når man trykker på en bestemt knap på keyboardet</td><td></td><td></td><td></td></tr>
+<tr><td>Setup</td><td> Setup bruges til at opstille informationer der kun skal gives 1 gang</td><td></td></tr>
+<tr><td>Draw</td><td> Draw bruges til at loope funktioner om og om igen</td><td></td></tr>
+<tr><td>mousePressed</td><td> en kommando man bruger til at fortælle programmet at der skal se noget når man trykker på musseknappen</td><td></td></tr>
+<tr><td>keyPressed</td><td> en kommando man bruger til at fortælle programmet at der skal se noget når man trykker på en bestemt knap på keyboardet</td><td></td></tr>
 <tr><td>krølleparanteser</td><td> Til at indkapsle flere linjers kode. Draw og for loops bruger krølleparateser
-</td><td></td><td></td><td></td></tr>
-<tr><td>variabler</td><td> Man angiver en værdi til en datatype</td><td></td><td></td><td></td></tr>
-<tr><td>datatyper</td><td> String er datatypen for tekst, boolean er for noget som skal give et resultat der enten er sandt eller falsk, int er datatypen for tal og float er datatypen for tal med decimaler</td><td></td><td></td><td></td></tr>
+</td><td></td></tr>
+<tr><td>variabler</td><td> Man angiver en værdi til en datatype</td><td></td></tr>
+<tr><td>datatyper</td><td> String er datatypen for tekst, boolean er for noget som skal give et resultat der enten er sandt eller falsk, int er datatypen for tal og float er datatypen for tal med decimaler</td><td></td></tr>
 <tr><td>arrays</td><td> 
-En array er en stribe af variabler i én</td><td></td><td></td><td></td></tr>
+En array er en stribe af variabler i én</td><td>
 <tr><td>if-statements</td><td> 
-Fortæller programmet at det skal udføre en kode hvis koden er indenfor visse begrænsninger </td><td></td><><td></td>for-loops<td></td></tr>
-<tr><td></td><td> Aflevering 10: Forskellige dyr</td><td></td><td></td><td></td></tr>
-<tr><td></td><td> Test standpunkt</td><td></td><td></td><td></td></tr>
-<tr><td>11 og 12</td><td> Aflevering 11: Skriv og læs til fil</td><td></td><td></td><td></td></tr>
-<tr><td>13 og 14</td><td> Aflevering 12: ... </td><td></td><td></td><td></td></tr>
-<tr><td>16 og 17</td><td> Aflevering 13: ... </td><td></td><td></td><td></td></tr>
-<tr><td>21</td><td> SRC </td><td></td><td></td><td></td></tr>
+Fortæller programmet at det skal udføre en kode hvis koden er indenfor visse begrænsninger </td><td></td></tr>
+<tr><td>for-loops<td>Looper en kode indtil at et mål er nået
+</td><td></td></tr>
+<tr><td>while-loops</td><td> x</td><td></td></tr>
+<tr><td>Funktioner: Klasser</td><td> en række ensartede objekter</td><td></td></tr>
+<tr><td>Funktioner: Objekter</td><td> en variabel, der er oprettet som en konkret forekomst af en klasse</td><td></td></tr>
+<tr><td>13 og 14</td><td> Aflevering 12: ... </td><td></td></tr>
+<tr><td>16 og 17</td><td> Aflevering 13: ... </td><td></td></tr>
+<tr><td>21</td><td> SRC </td><td></td></tr>
 </tbody>
 </table>
 
