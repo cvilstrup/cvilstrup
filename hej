@@ -19,20 +19,23 @@ Det er selvfølgelig også forventeligt at alle forstår disse emner.</p>
   
 <table border="1">
 <thead>
-<tr><th>Uge</th><th> Opgavetitel</th><th> Løsning</th><th> Beskrivelse</th><th> Andet</th></tr>
+<tr><th>Emne</th><th> Beskrivelse</th><th> Andet</th></tr>
 </thead>
 <tbody>
-<tr><td>33</td><td> Aflevering1: Projekt Creature Walk 21/22</td><td></td><td></td><td></td></tr>
-<tr><td>36</td><td> Aflevering 2: Bouncing Ball 21/22</td><td></td><td></td><td></td></tr>
-<tr><td>38</td><td> Aflevering 3 : Firkantkunst 21/22</td><td></td><td></td><td></td></tr>
-<tr><td>39</td><td> Aflevering 4 : Tegneprogram 21/22</td><td></td><td></td><td></td></tr>
-<tr><td>41</td><td> Aflevering 5 : Slange 21/22</td><td></td><td></td><td></td></tr>
-<tr><td>43</td><td> Aflevering 6 : Opgaver i funktioner</td><td></td><td></td><td></td></tr>
-<tr><td>48</td><td> Aflevering 7: Terningesim med fuktioner</td><td></td><td></td><td></td></tr>
-<tr><td>51</td><td> Aflevering 8 : Intro opgave i OOP</td><td></td><td></td><td></td></tr>
-<tr><td>7</td><td> Aflevering 9: Firkant zoom og translate</td><td></td><td></td><td></td></tr>
+<tr><td>Setup</td><td> Setup bruges til at opstille informationer der kun skal gives 1 gang</td><td></td><td></td><td></td></tr>
+<tr><td>Draw</td><td> Draw bruges til at loope funktioner om og om igen</td><td></td><td></td><td></td></tr>
+<tr><td>mousePressed</td><td> en kommando man bruger til at fortælle programmet at der skal se noget når man trykker på musseknappen</td><td></td><td></td><td></td></tr>
+<tr><td>keyPressed</td><td> en kommando man bruger til at fortælle programmet at der skal se noget når man trykker på en bestemt knap på keyboardet</td><td></td><td></td><td></td></tr>
+<tr><td>krølleparanteser</td><td> Til at indkapsle flere linjers kode. Draw og for loops bruger krølleparateser
+</td><td></td><td></td><td></td></tr>
+<tr><td>variabler</td><td> Man angiver en værdi til en datatype</td><td></td><td></td><td></td></tr>
+<tr><td>datatyper</td><td> String er datatypen for tekst, boolean er for noget som skal give et resultat der enten er sandt eller falsk, int er datatypen for tal og float er datatypen for tal med decimaler</td><td></td><td></td><td></td></tr>
+<tr><td>arrays</td><td> 
+En array er en stribe af variabler i én</td><td></td><td></td><td></td></tr>
+<tr><td>if-statements</td><td> 
+Fortæller programmet at det skal udføre en kode hvis koden er indenfor visse begrænsninger </td><td></td><><td></td>for-loops<td></td></tr>
 <tr><td></td><td> Aflevering 10: Forskellige dyr</td><td></td><td></td><td></td></tr>
-<tr><td>8</td><td> Test standpunkt</td><td></td><td></td><td></td></tr>
+<tr><td></td><td> Test standpunkt</td><td></td><td></td><td></td></tr>
 <tr><td>11 og 12</td><td> Aflevering 11: Skriv og læs til fil</td><td></td><td></td><td></td></tr>
 <tr><td>13 og 14</td><td> Aflevering 12: ... </td><td></td><td></td><td></td></tr>
 <tr><td>16 og 17</td><td> Aflevering 13: ... </td><td></td><td></td><td></td></tr>
