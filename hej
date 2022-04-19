@@ -36,7 +36,7 @@ En array er en stribe af variabler i én</td><td>
 Fortæller programmet at det skal udføre en kode hvis koden er indenfor visse begrænsninger </td><td></td></tr>
 <tr><td>for-loops<td>Looper en kode indtil at et mål er nået
 </td><td></td></tr>
-<tr><td>while-loops</td><td> x</td><td></td></tr>
+<tr><td>while-loops</td><td> Loops der bliver ved og som man skal være påpasselig med da de kan gøre skade på på din enhed</td><td></td></tr>
 <tr><td>Funktioner: Klasser</td><td> en række ensartede objekter</td><td></td></tr>
 <tr><td>Funktioner: Objekter</td><td> en variabel, der er oprettet som en konkret forekomst af en klasse</td><td></td></tr>
 <tr><td>13 og 14</td><td> Aflevering 12: ... </td><td></td></tr>
